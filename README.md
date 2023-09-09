@@ -11,4 +11,4 @@ This is an Electron app that runs locally on your machine and does not require a
 
 ### Windows
 
-1. Download the latest release from the [releases page]() and run the exe
+1. Download the latest release from the [releases page](https://github.com/xmow49/excalidraw-local/releases/) and run the exe
